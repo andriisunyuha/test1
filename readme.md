@@ -11,4 +11,9 @@
 - Description: Spectra Eye Clinic
 - Details: A concept design for an ophtalmology clinic.
 
+- ### Case 3
+- [Niva](http://behance.net/gallery/241915081/Niva-AI-family-assistant)
+- Description: Niva AI Assistant
+- Details: Niva, an assistant that helps you manage the tasks and responsibilities of your home.
+
 
